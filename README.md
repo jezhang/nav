@@ -6,20 +6,11 @@
 
 偏前端的比较多，后续会慢慢的增加其他分类，
 
-如有体验上的问题、分类错误欢迎提[issues](https://github.com/xjh22222228/nav/issues), 感谢！
+感谢！
 
-
-[github仓库](https://github.com/xjh22222228/nav) 欢迎star
 
 
 ### 预览
-[点击这里预览](https://xjh22222228.github.io/nav/index.html)
-
-
-
-![演示](https://raw.githubusercontent.com/xjh22222228/nav/master/images/demo.gif)
-
-
 
 ----
 
@@ -35,14 +26,13 @@
 ----
 
 ### 贡献导航/友情链接
-[点此贡献](https://github.com/xjh22222228/nav/issues)
 
 提交格式
 ```
 icon: 'http://favicon.png',
 name: '发现导航',
 desc: '爱分享，爱创造，一个资源难寻的导航网站',
-link: 'https://github.com/xjh22222228/nav'
+link: 'https://github.com/xxx/yyy'
 ```
 
 
@@ -52,8 +42,5 @@ link: 'https://github.com/xjh22222228/nav'
 
 👍👍👍
 
-
-### License
-[The MIT License](https://opensource.org/licenses/MIT)
 
 
